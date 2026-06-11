@@ -1,0 +1,20 @@
+# Database config (if it contains credentials)
+Authentication/db.php
+
+# Mail credentials
+Email System/mailConfig.php
+
+# Generated QR Tickets
+tickets/*.png
+
+# Uploaded event images
+uploads/*
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
